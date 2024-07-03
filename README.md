@@ -1,7 +1,3 @@
-Here's a captivating `README.md` for your GitHub repository:
-
----
-
 # Machine Learning Training for HDFC Bank
 
 Welcome to the Machine Learning Training repository for HDFC Bank. This repository contains all the teaching materials and resources for our comprehensive ML training program. 
