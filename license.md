@@ -1,7 +1,3 @@
-Certainly! Here's a `LICENSE.md` file tailored to your requirements:
-
----
-
 # License
 
 ## Usage License
