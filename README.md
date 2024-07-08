@@ -58,10 +58,12 @@ To get started with the training materials, follow these steps:
     cd ml-training-hdfc
     ```
 
-2. **Install Dependencies**:
+2. **Install Spacy library**:
     Ensure you have Python and all necessary libraries installed:
     ```sh
-    pip install -r requirements.txt
+    pip install -U pip setuptools wheel
+    pip install -U spacy
+    python -m spacy download en_core_web_sm
     ```
 
 3. **Explore the Materials**:
