@@ -32,4 +32,4 @@ By using these materials, you agree to these terms and conditions.
 
 ---
 
-This `LICENSE.md` file ensures proper attribution, restricts commercial use, and prohibits derivative works, while also emphasizing the legal repercussions of unauthorized replication or promotion. Adjust the contact details as needed.
+This `LICENSE.md` file ensures proper attribution, restricts commercial use, and prohibits derivative works, while also emphasizing the legal repercussions of unauthorized replication or promotion.
