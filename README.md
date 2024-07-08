@@ -81,4 +81,4 @@ For any questions or further information, please contact [Anurag](mailto:ai@brai
 
 ---
 
-This README provides an overview of the training program, instructions for getting started, and additional information for contributors and license details. Adjust the contact details and repository URL as needed.
+This README provides an overview of the training program, instructions for getting started, and additional information for contributors and license details.
